@@ -1,0 +1,13 @@
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\bin\Debug\netcoreapp2.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\bin\Debug\netcoreapp2.1\CreateDb.deps.json
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\bin\Debug\netcoreapp2.1\CreateDb.runtimeconfig.json
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\bin\Debug\netcoreapp2.1\CreateDb.runtimeconfig.dev.json
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\bin\Debug\netcoreapp2.1\CreateDb.dll
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\bin\Debug\netcoreapp2.1\CreateDb.pdb
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\obj\Debug\netcoreapp2.1\CreateDb.csprojAssemblyReference.cache
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\obj\Debug\netcoreapp2.1\CreateDb.csproj.CoreCompileInputs.cache
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\obj\Debug\netcoreapp2.1\CreateDb.AssemblyInfoInputs.cache
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\obj\Debug\netcoreapp2.1\CreateDb.AssemblyInfo.cs
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\obj\Debug\netcoreapp2.1\CreateDb.dll
+C:\git-repos\CertAzureDeveloper\CosmosDb\CreateDb\obj\Debug\netcoreapp2.1\CreateDb.pdb
