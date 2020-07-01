@@ -1,0 +1,11 @@
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\bin\Debug\netcoreapp2.1\GremlinApp.deps.json
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\bin\Debug\netcoreapp2.1\GremlinApp.runtimeconfig.json
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\bin\Debug\netcoreapp2.1\GremlinApp.runtimeconfig.dev.json
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\bin\Debug\netcoreapp2.1\GremlinApp.dll
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\bin\Debug\netcoreapp2.1\GremlinApp.pdb
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\obj\Debug\netcoreapp2.1\GremlinApp.csprojAssemblyReference.cache
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\obj\Debug\netcoreapp2.1\GremlinApp.csproj.CoreCompileInputs.cache
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\obj\Debug\netcoreapp2.1\GremlinApp.AssemblyInfoInputs.cache
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\obj\Debug\netcoreapp2.1\GremlinApp.AssemblyInfo.cs
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\obj\Debug\netcoreapp2.1\GremlinApp.dll
+C:\git-repos\CertAzureDeveloper\CosmosDb\GremlinApp\GremlinApp\obj\Debug\netcoreapp2.1\GremlinApp.pdb

@@ -6,6 +6,7 @@ using Gremlin.Net.Structure.IO.GraphSON;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Configuration.FileExtensions;
 using Microsoft.Extensions.Configuration.Json;
+using Newtonsoft.Json;
 
 namespace GremlinApp
 {
@@ -35,10 +36,16 @@ namespace GremlinApp
                        hostname, port, enableSsl: true,
                        username: $"/dbs/" + database + "/colls/" + collection,
                        password: authKey);
-                    using (var gremlinClient = new GremlinClient(gremlinServer, new GraphSON2Reader(), new GraphSON2Writer(), GremlinClient.GraphSON2MimeType))
+                    using (var gremlinClient = new GremlinClient(gremlinServer,
+                        new GraphSON2Reader(), new GraphSON2Writer(), GremlinClient.GraphSON2MimeType))
                     {
                         var resultSet = AzureAsync(gremlinClient, args[0]);
                         Console.WriteLine("\n{{\"Returned\": \"{0}\"}}", resultSet.Result.Count);
+                        foreach (var result in resultSet.Result)
+                        {
+                            string jsonOutput = JsonConvert.SerializeObject(result);
+                            Console.WriteLine("{0}", jsonOutput);
+                        }
                     }
                 }
             }
