@@ -1,0 +1,14 @@
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\bin\Debug\netcoreapp2.1\CoreSQLDb.deps.json
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\bin\Debug\netcoreapp2.1\CoreSQLDb.runtimeconfig.json
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\bin\Debug\netcoreapp2.1\CoreSQLDb.runtimeconfig.dev.json
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\bin\Debug\netcoreapp2.1\CoreSQLDb.dll
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\bin\Debug\netcoreapp2.1\CoreSQLDb.pdb
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\obj\Debug\netcoreapp2.1\CoreSQLDb.csprojAssemblyReference.cache
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\obj\Debug\netcoreapp2.1\CoreSQLDb.csproj.CoreCompileInputs.cache
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\obj\Debug\netcoreapp2.1\CoreSQLDb.AssemblyInfoInputs.cache
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\obj\Debug\netcoreapp2.1\CoreSQLDb.AssemblyInfo.cs
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\obj\Debug\netcoreapp2.1\CoreSQLDb.dll
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\obj\Debug\netcoreapp2.1\CoreSQLDb.pdb
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\bin\Debug\netcoreapp2.1\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\bin\Debug\netcoreapp2.1\Cosmos.CRTCompat.dll
+C:\git-repos\CertAzureDeveloper\CosmosDb\CoreSQLDb\bin\Debug\netcoreapp2.1\CoreSQLDb.dll.config
